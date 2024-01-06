@@ -1,0 +1,12 @@
+p{
+    color: red;
+    background-color: ghostwhite;
+}
+.dot{
+    height: 100px;
+    width: 25%;
+    border: 2px solid greenyellow;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+}
